@@ -1,0 +1,3 @@
+Analysis of frequency of phonemes in the English language. Dictionary provided by CMU.
+
+Motivation for project is to develop optimal digit-to-phoneme mapping in order to translate strings of digits to English words 
